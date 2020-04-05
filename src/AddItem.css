@@ -1,0 +1,157 @@
+.AddItem{
+    margin:0 auto;
+    text-decoration: none;
+    list-style: none;
+}
+
+.upperbox{
+    border: 1px solid;
+    border-color: #d1d5da;
+    background: #f6f8fa;
+    margin-top: 20px;
+    width:75%;
+    height:172px;
+    margin: 20px auto;
+    font-size: 14px;
+    font-weight: 600;
+}
+.upperbox p span{
+    margin-left: 25px;
+    border-radius: 3px;
+    padding: 4px 8px;
+    float: left;
+}
+
+.labels{
+    display: -webkit-inline-box;
+    position: absolute;
+    top: 90px;
+    left: 217px;
+}
+
+
+
+.label-name p{
+    height: 12px;
+    border-radius: 3px;
+    text-align: left;
+}
+
+.discribe-name p{
+    border-radius: 3px;
+    height: 12px;
+    text-align: left;
+}    
+
+.discribe-name input{
+    height: 20px;
+    width: 350px;
+    padding: 6px 8px;
+    border-radius: 3px;
+    float: left;
+    background-color: #fafbfc;
+}
+.label-name input{
+    height: 20px;
+    width: 250px;
+    padding: 6px 8px;
+    border-radius: 3px;
+    float: left;
+    background-color: #fafbfc;
+    margin-right: 20px;
+}
+.color{
+    position: absolute;
+    top: 130px;
+    right: 481px;
+}
+
+.color input{
+    height: 20px;
+    width: 80px;
+    padding: 6px 8px;
+    border-radius: 3px;
+    background-color: #fafbfc;
+}
+.submit{
+    float: right;
+}
+
+.color button{
+    height: 34px;
+    width: 34px;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+.submit button{
+    height: 35px;
+    width: 106px;
+    padding: 6px 8px;
+    border-radius: 6px;
+    margin-top: 91px;
+    margin-right: 58px;
+    color: #fff;
+    background-color: #28a745;
+    background-image: linear-gradient(-180deg,#34d058,#28a745 90%);
+}
+
+.lower-box{
+    font-size: 14px;
+}
+
+.box-header{
+    border: 1px solid;
+    width:75%;
+    height:55px;
+    margin: 0px auto;
+    font-weight: 600;
+    border-color: #d1d5da;
+    background: #f6f8fa;
+}
+
+.box-header p{
+    float: left;
+    margin-left: 27px;
+    margin-top: 17px;
+}
+.fa{
+    padding-left: 2px;
+    padding-top: 4px;
+    font-size: medium;
+}
+
+.label-list{
+    border: 1px solid;
+    width: 75%;
+    height: 50px;
+    margin: 0px auto;
+    font-size: 14px;
+    font-weight: 600;
+    border-color: #d1d5da;
+    background: transparent;
+}
+
+.label-list p span{
+    margin-left: 25px;
+    border-radius: 3px;
+    padding: 4px 8px;
+    float: left;
+}
+
+.label-list button{
+    float: right;
+    margin-top: 15px;
+    margin-right: 96px;
+    cursor: pointer;
+    border: 0;
+    background-color: initial;
+    color:black;
+}
+
+.label-list button span:hover{
+    color:#6562cb;
+    border-bottom: 0.1px solid #6562cb ;
+}
+
+
+
